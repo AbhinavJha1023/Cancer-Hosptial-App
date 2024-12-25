@@ -480,8 +480,6 @@ class AddPatientScreen extends StatelessWidget {
   }
 }
 
-// Continue with similar improvements for ListPatientsScreen, AddDoctorScreen,
-// ListDoctorsScreen, AddAppointmentScreen, and ListAppointmentsScreen...
 // List Patients Screen
 class ListPatientsScreen extends StatelessWidget {
   final List<Patient> patients;
@@ -991,9 +989,6 @@ class AddDoctorScreen extends StatelessWidget {
   }
 }
 
-// Rest of the screens (ListDoctorsScreen, AddAppointmentScreen,
-// ListAppointmentsScreen) would follow similar patterns of enhancement...
-// List Doctors Screen
 class ListDoctorsScreen extends StatelessWidget {
   final List<Doctor> doctors;
 
